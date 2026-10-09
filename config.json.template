@@ -1,0 +1,8 @@
+{
+  "cookies": "__session_v2=YOUR_RAIDORI_COOKIE_STRING_HERE",
+  "target_users": ["@username"],
+  "max_price": 10000,
+  "crawl_interval": 10.0,
+  "output_dir": "./raidori_archive",
+  "request_timeout": 40.0
+}
